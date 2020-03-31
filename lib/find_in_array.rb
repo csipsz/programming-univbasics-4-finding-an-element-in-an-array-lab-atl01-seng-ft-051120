@@ -6,6 +6,7 @@ def find_element_index(array, value_to_find)
       result.push(count)
     end
     count += 1
+    
   end
   return nil 
 end
